@@ -1,0 +1,42 @@
+
+#hi{
+    background-color: rgb(242, 29, 29);
+    font-weight: bolder;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+}
+#heading{
+    color: #FB0293;
+ }
+ #btn{
+    border:5px solid #02fbea;
+     color:#FB0293 ;
+     font-size: larger;
+     font-weight: bold;
+ }
+ #modal{
+     background-color:transparent ;
+     
+ }
+ #color{
+    
+    border:20px solid #FB0293;
+    border-radius: 10px;
+}
+#bgc{
+    background: transparent;
+}
+#userInput{
+    border:5px solid #FB0293;
+    color: darkorange;
+}
+.color{
+    color: darkmagenta;
+    background-color: rgb(229, 104, 59);
+    list-style:square
+    ;
+}
