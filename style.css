@@ -1,16 +1,18 @@
 
 #hi{
-    background-color: rgb(242, 29, 29);
+    background-color: rgb(132, 250, 146);
     font-weight: bolder;
     padding: 20px;
-    margin-top: 20px;
-    color: white;
+    margin-top: 0px;
+    color: rgb(224, 129, 253);
     display: flex;
     justify-content: center;
     align-items:center ;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
 }
 #heading{
     color: #FB0293;
+
  }
  #btn{
     border:5px solid #02fbea;
@@ -25,18 +27,19 @@
  #color{
     
     border:20px solid #FB0293;
-    border-radius: 10px;
+    border-radius: 40px;
 }
 #bgc{
     background: transparent;
+    color: #02fbea;
 }
 #userInput{
     border:5px solid #FB0293;
-    color: darkorange;
+    color:aquamarine;
 }
 .color{
-    color: darkmagenta;
-    background-color: rgb(229, 104, 59);
+    color: rgb(222, 88, 222);
+    background-color:bisque;
     list-style:square
     ;
 }
